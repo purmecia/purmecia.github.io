@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "We must know. We shall know."
   location         : "Durham, NC"
-  employer         : Duke University
+  employer         : "Duke University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "mailto:im.yuchen.cao@duke.edu"
