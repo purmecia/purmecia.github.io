@@ -113,7 +113,42 @@ Team Leader, Natural Language Processing (NLP) course design at Duke University 
 •	Distilled 15 student models, including GPT2 and GPT, varying in size and architecture, from a large teacher language model, using corpus expansion and filtering techniques in Symbolic Knowledge Distillation, in order to determine the optimal design of a smaller language model that captures common-sense knowledge and to improve it
 •	Led a six-person team for manual evaluation of model outputs, and innovatively employed a critic model based on RoBERTa to automate this evaluation process and to enhance beam search performance, achieving a 72% acceptance rate improvement
 
+## Awards & Achievements
 
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+<div style="flex-basis: 80%;">
 
+- Excellent Undergraduate Thesis Award (Top 5%), NJUPT
+- Elite Student (Top 1%), NJUPT
+- Enterprise Scholarship (Top 2%), NJUPT
+- Excellent Social Work Award, NJUPT
+- Top 3%, Big Data & Computational Intelligence Contest
+- Champion (First Prize), RoboCup China Open
+- Silver Medal, The ACM-ICPC Asia Regional Contest
+- Bronze Medal, China Collegiate Programming Contest
 
+</div>
+<div style="flex-basis: 20%; text-align: right;">
 
+- 2021
+- 2019 & 2020
+- 2019
+- 2018 & 2020
+- 2019
+- 2019
+- 2018
+- 2018
+
+</div>
+</div>
+
+## Core Competencies
+
+### Programming Languages
+C, C++, Python, Java, Lisp, Assembly Language, MATLAB, JavaScript, Go, Ruby, Rust
+
+### Tools
+Docker, OpenStack, Git, Unix/Linux, Qt, Visual Studio Code, MySQL, Psychtoolbox, BCI2000
+
+### Machine Learning
+TensorFlow, Scikit-learn, PyTorch, Keras, torch-nlp, OpenCV, pillow, Hugging Face
