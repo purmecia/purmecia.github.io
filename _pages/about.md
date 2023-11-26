@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<div style="color: navy; font-size: 22px; text-align: center;">
-    <h1>Hey! Welcome to my page!</h1>
-</div>
 
 I'm a second-year M.S. student of Computer Science at Duke University. My research interest includes computer vision, computer graphics, machine learning, and computational photography.
 
