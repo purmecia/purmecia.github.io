@@ -26,7 +26,7 @@ My research interest lies in integrating **hardware and software** in both **com
 
 </figure>
 
-# Past experience
+# Past Experience
 
 The same as my research interest, my past experiences can be categorized into **hardware**, **software**, **brain**, and **their integrations**.
 <figure>  
@@ -34,7 +34,7 @@ The same as my research interest, my past experiences can be categorized into **
 
 </figure>
 
-## Research experience 
+## Research Experience 
 
 ### McGurk Effect Research &nbsp; &nbsp; &nbsp;&nbsp;  <i>Jan. 2023 - Present</i>
 
