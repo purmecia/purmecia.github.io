@@ -163,52 +163,95 @@ Psychtoolbox and JACK for efficient data capture in a sound-proof booth</li>
 
 ### Design and Optimization of Triangle Counting Algorithm in Large-scale Graph Data 
 
-Lead Developer, Big Data & Computational Intelligence Contest (China Computer Federation)
+*Lead Developer*, Big Data & Computational Intelligence Contest (China Computer Federation)
+
+>Developed an efficient algorithm for counting triangles in large-scale graphs (40G), improving computation speed by 95% using CPU (OpenMP) and GPU (CUDA) parallel computing with limited resources (60G memory, 16G graphics card)
+
+<details>
+
+<summary style="color:#42A5F5">Details (click to expand)</summary>
+
+<ul>
+<li>Employed Compressed Sparse Rows format for graph representation, transformed the Triangle Counting Forward Algorithm into a parallel intersection algorithm based on Single Instruction Multiple Data on GPUs and devised slicing and crossing techniques for handling memory limitations</li>
+<li>Optimized GPU resource utilization through node-parallelism, multi-block delay hiding, and shared memory with atomic operations, ensuring both computational speed and accuracy</li>
+<li></li>
+</ul>
+
+<img src="/images/Triangle.png" alt="Triangle" style="width: 40%; display: inline-block;"/>  
+
+</details>
 
 
-• Developed an efficient algorithm for counting triangles in large-scale graphs (40G), improving computation speed by 95%
-using CPU (OpenMP) and GPU (CUDA) parallel computing with limited resources (60G memory, 16G graphics card)
-• Employed Compressed Sparse Rows format for graph representation, transformed the Triangle Counting Forward
-Algorithm into a parallel intersection algorithm based on Single Instruction Multiple Data on GPUs and devised slicing and
-crossing techniques for handling memory limitations
-• Optimized GPU resource utilization through node-parallelism, multi-block delay hiding, and shared memory with atomic
-operations, ensuring both computational speed and accuracy
+### Rescue Simulator  Feb. 2019 - April 2019
 
+*Team Member*, 2019 RoboCup China Open
 
-### Rescue Simulator (with Java) Nanjing, China
-Team Member, 2019 RoboCup China Open Feb. 2019 - April 2019
-• Developed rescue robot programs for the simulation of post-earthquake urban environment, focusing on agent behavior,
-task execution, and communication within varied roles, including firefighter, police, ambulance, etc.
-• Created an efficient task allocation strategy for firefighter agents based on distance to fires, employing the Hungarian
-Algorithm in the central agent to enhance command on those agents, improving firefighting efforts of 10% performance
-• Performed extensive code refactoring to align with new competition standards, introduced central agents, and implemented
-a pre-computation process, resulting in a clearer system architecture and improved computational efficiency
+>Developed rescue robot programs for the simulation of post-earthquake urban environment, focusing on agent behavior, task execution, and communication within varied roles, including firefighter, police, ambulance, etc.
+<details>
 
-### International Collegiate Programming Contest (ACM-ICPC, with C++) China
-Team leader, coached by Professor Zhi Chen at NJUPT Oct. 2017 – June 2019
-• Led a three-person group coding with only one computer to solve problems related to various algorithms and math
-knowledge within five hours, allocated tasks to optimize problem-solving efficiency during contests
-• Coordinated and frequently engaged in rigorous training sessions, mastered diverse algorithmic knowledge in domains
-including dynamic programming, graph theory, data structures, etc., through practices
+<summary style="color:#42A5F5">Details (click to expand)</summary>
+
+<ul>
+<li>Created an efficient task allocation strategy for firefighter agents based on distance to fires, employing the Hungarian Algorithm in the central agent to enhance command on those agents, improving firefighting efforts of 10% performance</li>
+<li>Performed extensive code refactoring to align with new competition standards, introduced central agents, and implemented a pre-computation process, resulting in a clearer system architecture and improved computational efficiency</li>
+</ul>
+
+<img src="/images/Robot.png" alt="Robot" style="width: 40%; display: inline-block;"/>  
+
+</details>
+
+### International Collegiate Programming Contest (ACM-ICPC)  Oct. 2017 – June 2019
+
+*Team leader*, coached by Professor Zhi Chen at NJUPT
+
+>Led a three-person group coding with only one computer to solve problems related to various algorithms and math knowledge within five hours, allocated tasks to optimize problem-solving efficiency during contests
+
+<details>
+
+<summary style="color:#42A5F5">Details (click to expand)</summary>
+
+<ul>
+<li>Coordinated and frequently engaged in rigorous training sessions, mastered diverse algorithmic knowledge in domains including dynamic programming, graph theory, data structures, etc., through practices</li>
+</ul>
+
+<img src="/images/ICPC.png" alt="ICPC" style="width: 40%; display: inline-block;"/>  
+
+</details>
 
 ## Social Work Activity
 
-### Founder & Mentor of Algorithm Study Group
+### Founder & Mentor of Algorithm Study Group &nbsp; &nbsp; &nbsp;&nbsp; *June 2018 - Sept. 2020*
 
-- Science and Technology Association, School of Computer Science, NJUPT 
-
-- *June 2018 - Sept. 2020* &nbsp; &nbsp; &nbsp;&nbsp;Nanjing, China
-
+Science and Technology Association, School of Computer Science, NJUPT 
 
 > Founded and led an algorithm study group to help students from diverse backgrounds, especially from underrepresented communities, engaged in publicity recruitment, and grew the team to over 50 members
 
-• Conducted weekly programming and algorithmic lessons for the entire school, designed and organized school-level
-programming competitions fostering academic inclusiveness and a deeper understanding of algorithms among students
+<details>
 
-### Volunteer Lecturer, ICPC (International Collegiate Programming Contest) School Team Nanjing, China
-NJUPT Feb. 2019 – June 2019
-• Organized and managed training sessions, meticulously selecting problem sets and coordinating contest logistics
-• Conducted both online and offline lectures and Q&A sessions to support team members' understanding and progress
+<summary style="color:#42A5F5">Details (click to expand)</summary>
+
+<ul>
+<li>Conducted weekly programming and algorithmic lessons for the entire school, designed and organized school-level programming competitions fostering academic inclusiveness and a deeper understanding of algorithms among students</li>
+</ul>
+
+</details>
+
+### Volunteer Lecturer, ICPC (International Collegiate Programming Contest) School Team  Feb. 2019 – June 2019
+
+NJUPT
+
+>Organized and managed training sessions, meticulously selecting problem sets and coordinating contest logistics
+
+<details>
+
+<summary style="color:#42A5F5">Details (click to expand)</summary>
+
+<ul>
+<li>Conducted both online and offline lectures and Q&A sessions to support team members' understanding and progress</li>
+</ul>
+
+</details>
+
 
 ## Awards & Achievements
 
