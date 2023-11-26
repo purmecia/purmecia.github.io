@@ -15,11 +15,11 @@ You can find my CV here: [link](../assets/CV_YuchenCao.pdf)
 
 [Email](mailto:im.yuchen.cao@duke.edu) / [Github](https://github.com/purmecia) / [LinkedIn](https://www.linkedin.com/in/yuchencaoduke/) 
 
-My research interest lies in integrating **hardware and software** in both **computer science** and **brain science**. To be specific, I am interested (not confined)  in these fantastic and extensive areas:
+My research interest lies in integrating **hardware and software** in both **computer science** and **brain science**. To be specific, I am interested (but not confined)  in these fantastic and extensive areas:
 
 - **From computer science to brain science**: High-dimensional data analysis, Computational neuroscience, Brain network, etc.
-- **From brain science to computer science**: Bio-inspired AI, Neural network analysis, etc.
-- **Overlap**: Brain-computer interface, illusion in machine, reinforcement learning, machine learning, multi-modal perception, consciousness, etc.
+- **From brain science to computer science**: Bio-inspired computation, Neural network analysis, etc.
+- **Overlap**: Brain-computer interface, Illusion in machine, Reinforcement learning, Machine learning, Multi-modal perception, Consciousness, etc.
 
 <figure>  
 <img src="/images/research_interest.png" alt="Research Interest" style="width: 50%; display: block; margin-left: auto; margin-right: auto;"/>
