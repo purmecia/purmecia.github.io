@@ -36,15 +36,15 @@ The same as my research interest, ,y past experiences can be categorized into **
 
 ## Research experience
 
-### McGurk Effect Research (with MATLAB, Psychtoolbox, Python)
+### McGurk Effect Research &nbsp; &nbsp; &nbsp;&nbsp;  <i>Jan. 2023 - Present</i>
 
-**Ongoing**, *Research Assistant*, Duke University (Supervised by Professor [Jennifer Groh](https://people.duke.edu/~jmgroh/))
+ *Research Assistant*, Duke University (Supervised by Professor [Jennifer Groh](https://people.duke.edu/~jmgroh/))
 
 >Led an individual interdisciplinary research project at the intersection of computer science and brain science, based on the McGurk effect, an illusion showing visual stimuli can alter auditory perception, to probe human multi-modal perception
   
 <details>
 
-<summary style="color:#42A5F5">Details (click to expand)</summary>
+<summary style="color:#42A5F5">Details (click to expand)</summary> 
 <ul>
 <li>Developed video stimuli that can elicit the McGurk effect on subjects with a 100% success rate, exceeding existing stimuli</li>
 <li>Engineered a comprehensive system integrating hardware and software from scratch, including an eye tracker and in-ear microphones, coupled with
@@ -57,9 +57,9 @@ Psychtoolbox and JACK for efficient data capture in a sound-proof booth</li>
 
 </details>
 
-### Data-efficient Robust Single-life Reinforcement Learning (with Python, Pytorch) 
+### Data-efficient Robust Single-life Reinforcement Learning
 
-**Ongoing**, *Researcher*, Duke University (Supervised by Professor [Pan Xu](https://panxulab.github.io/))
+ *Researcher*, Duke University (Supervised by Professor [Pan Xu](https://panxulab.github.io/))
 
 >Proposed a novel fine-tuning algorithm in Reinforcement Learning, emphasizing robustness against dynamics change and data efficiency, adaptable to real-world single-life environment
 
@@ -75,7 +75,7 @@ Psychtoolbox and JACK for efficient data capture in a sound-proof booth</li>
 
 </details>
 
-### Energy Efficiency Evaluation and Prediction for Large-scale Cloud Data Centers (with Python)
+### Energy Efficiency Evaluation and Prediction for Large-scale Cloud Data Centers
 
 *Research Assistant*, NJUPT (Supervised by Professor Yun Li, Undergraduate Thesis)
 
@@ -99,11 +99,11 @@ Psychtoolbox and JACK for efficient data capture in a sound-proof booth</li>
   
 ## Project Experience
 
-### Emotional Response Detection through Brain-Computer Interface (with PyTorch, BCI2000)
+### Emotional Response Detection through Brain-Computer Interface [[Report](/assets/BCI_YuchenCao.pdf)]
 
 *Team Leader*, Brain-Computer Interface (BCI) Course design at Duke University
 
-[[Report](/assets/BCI_YuchenCao.pdf)]
+
 
 > Conducted EEG data collection using non-invasive P300 brain-computer interface and BCI2000 systems, capturing subjects' emotional responses to images from different emotional categories in the Geneva Affective PicturE Database (GAPED)
 <details>
@@ -118,11 +118,12 @@ Psychtoolbox and JACK for efficient data capture in a sound-proof booth</li>
 
 </details>
 
-## Mini Amazon (with C++, Python, Django, PostgreSQL, Docker)
+### Mini Amazon [[Github](https://github.com/yuyue1999/Mini_Amazon_UPS)]
 
-*Team Leader*, Engineering Robust Server Software course design at Duke University
+- *Team Leader*, Engineering Robust Server Software course design at Duke University
+- with C++, Python, Django, PostgreSQL, Docker
 
-[[Github](https://github.com/yuyue1999/Mini_Amazon_UPS)]
+
 
 >Led the development of a multi-threaded e-commerce platform simulating Amazon, encompassing both front-end and back-end functionalities, including product browsing, cart management, order placement, and status tracking
 
@@ -137,10 +138,13 @@ Psychtoolbox and JACK for efficient data capture in a sound-proof booth</li>
 
 </details>
 
-Common Sense Model Distillation Research (with Pytorch, Python, Numpy, Pandas)
-Team Leader, Natural Language Processing (NLP) course design at Duke University
+### Common Sense Model Distillation Research [[Report](/assets/NLP_YuchenCao.pdf)] [[Github](https://github.com/purmecia/Sym_Model_Distill)]
 
-[[Report](/assets/NLP_YuchenCao.pdf)] [[Github](https://github.com/purmecia/Sym_Model_Distill)]
+- Team Leader, Natural Language Processing (NLP) course design at Duke University
+
+- with Pytorch, Python, Numpy, Pandas
+
+
 
 > Distilled 15 student models, including GPT2 and GPT, varying in size and architecture, from a large teacher language model, using corpus expansion and filtering techniques in Symbolic Knowledge Distillation, in order to determine the optimal design of a smaller language model that captures common-sense knowledge and to improve it
 
@@ -156,9 +160,13 @@ Team Leader, Natural Language Processing (NLP) course design at Duke University
 
 </details>
 
-COMPETITION EXPERIENCE
-Design and Optimization of Triangle Counting Algorithm in Large-scale Graph Data (with C++) Nanjing, China
-Lead Developer, Big Data & Computational Intelligence Contest (China Computer Federation) Sept. 2019 - Dec. 2019
+## Competition Experience
+
+### Design and Optimization of Triangle Counting Algorithm in Large-scale Graph Data 
+
+Lead Developer, Big Data & Computational Intelligence Contest (China Computer Federation)
+
+
 • Developed an efficient algorithm for counting triangles in large-scale graphs (40G), improving computation speed by 95%
 using CPU (OpenMP) and GPU (CUDA) parallel computing with limited resources (60G memory, 16G graphics card)
 • Employed Compressed Sparse Rows format for graph representation, transformed the Triangle Counting Forward
@@ -166,7 +174,9 @@ Algorithm into a parallel intersection algorithm based on Single Instruction Mul
 crossing techniques for handling memory limitations
 • Optimized GPU resource utilization through node-parallelism, multi-block delay hiding, and shared memory with atomic
 operations, ensuring both computational speed and accuracy
-Rescue Simulator (with Java) Nanjing, China
+
+
+### Rescue Simulator (with Java) Nanjing, China
 Team Member, 2019 RoboCup China Open Feb. 2019 - April 2019
 • Developed rescue robot programs for the simulation of post-earthquake urban environment, focusing on agent behavior,
 task execution, and communication within varied roles, including firefighter, police, ambulance, etc.
@@ -174,20 +184,29 @@ task execution, and communication within varied roles, including firefighter, po
 Algorithm in the central agent to enhance command on those agents, improving firefighting efforts of 10% performance
 • Performed extensive code refactoring to align with new competition standards, introduced central agents, and implemented
 a pre-computation process, resulting in a clearer system architecture and improved computational efficiency
-International Collegiate Programming Contest (ACM-ICPC, with C++) China
+
+### International Collegiate Programming Contest (ACM-ICPC, with C++) China
 Team leader, coached by Professor Zhi Chen at NJUPT Oct. 2017 – June 2019
 • Led a three-person group coding with only one computer to solve problems related to various algorithms and math
 knowledge within five hours, allocated tasks to optimize problem-solving efficiency during contests
 • Coordinated and frequently engaged in rigorous training sessions, mastered diverse algorithmic knowledge in domains
 including dynamic programming, graph theory, data structures, etc., through practices
-SOCIAL WORK ACTIVITIES
-Head & Instructor of Algorithm Study Group Nanjing, China
-Science and Technology Association, School of Computer Science, NJUPT June 2018 - Sept. 2020
-• Founded and led an algorithm study group to help students from diverse backgrounds, especially from underrepresented
-communities, engaged in publicity recruitment, and grew the team to over 50 members
+
+## Social Work Activity
+
+### Founder & Mentor of Algorithm Study Group
+
+- Science and Technology Association, School of Computer Science, NJUPT 
+
+- *June 2018 - Sept. 2020* &nbsp; &nbsp; &nbsp;&nbsp;Nanjing, China
+
+
+> Founded and led an algorithm study group to help students from diverse backgrounds, especially from underrepresented communities, engaged in publicity recruitment, and grew the team to over 50 members
+
 • Conducted weekly programming and algorithmic lessons for the entire school, designed and organized school-level
 programming competitions fostering academic inclusiveness and a deeper understanding of algorithms among students
-Volunteer Lecturer, ICPC (International Collegiate Programming Contest) School Team Nanjing, China
+
+### Volunteer Lecturer, ICPC (International Collegiate Programming Contest) School Team Nanjing, China
 NJUPT Feb. 2019 – June 2019
 • Organized and managed training sessions, meticulously selecting problem sets and coordinating contest logistics
 • Conducted both online and offline lectures and Q&A sessions to support team members' understanding and progress
