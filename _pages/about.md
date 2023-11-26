@@ -112,7 +112,7 @@ Psychtoolbox and JACK for efficient data capture in a sound-proof booth</li>
 <li>Built and optimized deep learning models for wavelet analysis, incorporating GRU and LSTM architectures, achieving an F1 score of 0.72 in differentiating reactions to pleasant and unpleasant stimuli</li>
 </ul>
 
-<img src="/images/BCI.png" alt="BCI" style="width: 40%; display: inline-block;"/>  
+<img src="/images/BCI.png" alt="BCI" style="width: 100%; display: inline-block;"/>  
 
 </details>
 
@@ -147,7 +147,7 @@ Psychtoolbox and JACK for efficient data capture in a sound-proof booth</li>
 <li>Led a six-person team for manual evaluation of model outputs, and innovatively employed a critic model based on RoBERTa to automate this evaluation process and to enhance beam search performance, achieving a 72% acceptance rate improvement</li>
 </ul>
 
-<img src="/images/commonsense.png" alt="commonsense" style="width: 40%; display: inline-block;"/>  
+<img src="/images/commonsense.png" alt="commonsense" style="width: 100%; display: inline-block;"/>  
 
 </details>
 
@@ -168,7 +168,7 @@ Psychtoolbox and JACK for efficient data capture in a sound-proof booth</li>
 <li>Optimized GPU resource utilization through node-parallelism, multi-block delay hiding, and shared memory with atomic operations, ensuring both computational speed and accuracy</li>
 </ul>
 
-<img src="/images/Triangle.png" alt="Triangle" style="width: 40%; display: inline-block;"/>  
+<img src="/images/Triangle.png" alt="Triangle" style="width: 80%; display: inline-block;"/>  
 
 </details>
 
@@ -187,7 +187,7 @@ Psychtoolbox and JACK for efficient data capture in a sound-proof booth</li>
 <li>Performed extensive code refactoring to align with new competition standards, introduced central agents, and implemented a pre-computation process, resulting in a clearer system architecture and improved computational efficiency</li>
 </ul>
 
-<img src="/images/Robot.png" alt="Robot" style="width: 40%; display: inline-block;"/>  
+<img src="/images/Robot.png" alt="Robot" style="width: 80%; display: inline-block;"/>  
 
 </details>
 
@@ -205,7 +205,7 @@ Psychtoolbox and JACK for efficient data capture in a sound-proof booth</li>
 <li>Coordinated and frequently engaged in rigorous training sessions, mastered diverse algorithmic knowledge in domains including dynamic programming, graph theory, data structures, etc., through practices</li>
 </ul>
 
-<img src="/images/ICPC.png" alt="ICPC" style="width: 40%; display: inline-block;"/>  
+<img src="/images/ICPC.png" alt="ICPC" style="width: 20%; display: inline-block;"/>  
 
 </details>
 
