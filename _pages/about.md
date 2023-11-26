@@ -35,14 +35,21 @@ My past experiences can be categorized into hardware, software, brain, and their
 
 ## Research experience
 ### McGurk Effect Research (with MATLAB, Psychtoolbox, Python)                                                  
-**Ongoing**, *Research Assistant*, Duke University (Supervised by Professor [Jennifer Groh](https://people.duke.edu/~jmgroh/))                                                                             - Led an individual interdisciplinary research project at the intersection of computer science and brain science, based on the McGurk effect, an illusion showing visual stimuli can alter auditory perception, to probe human multi-modal perception
+**Ongoing**, *Research Assistant*, Duke University (Supervised by Professor [Jennifer Groh](https://people.duke.edu/~jmgroh/))    
+
+- Led an individual interdisciplinary research project at the intersection of computer science and brain science, based on the McGurk effect, an illusion showing visual stimuli can alter auditory perception, to probe human multi-modal perception
+  
 <details>
+
 <summary>(click to expand)</summary>
+  
 - Developed video stimuli that can elicit the McGurk effect on subjects with a 100% success rate, exceeding existing stimuli
 - Engineered a comprehensive system integrating hardware and software from scratch, including an eye tracker and in-ear microphones, coupled with Psychtoolbox and JACK for efficient data capture in a sound-proof booth
 - Executed end-to-end experimental procedures with 15 participants, involving script writing, participant recruitment, and ear-canal sound data collection
 - Applying interdisciplinary analytical methods, including sliding window alignment, Mann-Whitney U test, and Fast Fourier Transform (FFT), for precise data analysis and visualization, to figure out what is inputted to the brain for processing
+  
 </details>
+
 ### Data-efficient Robust Single-life Reinforcement Learning (with Python, Pytorch)                            
 **Ongoing**,*Researcher*, Duke University (Supervised by Professor [Pan Xu](https://panxulab.github.io/)        - Proposed a novel fine-tuning algorithm in Reinforcement Learning, emphasizing robustness against dynamics change and data efficiency, adaptable to real-world single-life environment
 - Conducting comprehensive simulation tests to validate the algorithm's efficacy using the OpenAI Gym environment
