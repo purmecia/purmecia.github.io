@@ -11,15 +11,15 @@ redirect_from:
 
 I'm a now second-year **M.S.** student of **Computer Science** at **Duke University**, where I am very fortunate to be advised by Prof. [Jennifer Groh](https://people.duke.edu/~jmgroh/). Before coming to Duke, I got my B.Eng. in Computer Science and Technology from Nanjing University of Posts and Telecommunications (NJUPT), where I won tens of awards in programming competitions including a **silver medal** in **ACM-ICPC** and **champion in RoboCup**.
 
-You can find my CV here: [link](../assets/CV_YuchenCao.pdf).
+You can find my CV here: [link](../assets/CV_YuchenCao.pdf)
 
 [Email](mailto:im.yuchen.cao@duke.edu) / [Github](https://github.com/purmecia) / [LinkedIn](https://www.linkedin.com/in/yuchencaoduke/) 
 
-My research interest lies in integrating **hardware and software** in both **computer science** and **brain science**. To be specific, I am interested in this fantastic and extensive area:
+My research interest lies in integrating **hardware and software** in both **computer science** and **brain science**. To be specific, I am interested (not confined)  in these fantastic and extensive areas:
 
-- **From computer science to brain science**: High-dimensional data analysis, Computational neuroscience, Brain network
+- **From computer science to brain science**: High-dimensional data analysis, Computational neuroscience, Brain network, etc.
 - **From brain science to computer science**: Bio-inspired AI, Neural network analysis, etc.
-- **Overlap**: Brain-computer interface, illusion in machine, reinforcement learning, consciousness
+- **Overlap**: Brain-computer interface, illusion in machine, reinforcement learning, machine learning, multi-modal perception, consciousness, etc.
 
 <figure>  
 <img src="/images/research_interest.png" alt="Research Interest" style="width: 60%; display: block; margin-left: auto; margin-right: auto;"/>
@@ -222,7 +222,7 @@ Psychtoolbox and JACK for efficient data capture in a sound-proof booth</li>
 
 ### Founder & Mentor of Algorithm Study Group &nbsp; &nbsp; &nbsp;&nbsp; *June 2018 - Sept. 2020*
 
-Science and Technology Association, School of Computer Science, NJUPT 
+Science and Technology Association, School of Computer Science, NJUPT
 
 > Founded and led an algorithm study group to help students from diverse backgrounds, especially from underrepresented communities, engaged in publicity recruitment, and grew the team to over 50 members
 
