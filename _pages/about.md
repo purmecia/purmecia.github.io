@@ -19,7 +19,7 @@ My research interest lies in integrating **hardware and software** in both **com
 
 - **From computer science to brain science**: High-dimensional data analysis, Computational neuroscience, Brain network, etc.
 - **From brain science to computer science**: Bio-inspired computation, Neural Symbolic Machine Learning, Neural network analysis, etc.
-- **Overlap**: Brain-computer interface, Illusion in machine, Reinforcement learning, Machine learning, Robotics, Multi-modal perception, Consciousness, etc.
+- **Overlap**: Brain-computer interface, Illusion in machine, Reinforcement learning, Natural Language Processing, Machine learning, Robotics, Multi-modal perception, Consciousness, etc.
 
 <figure>  
 <img src="/images/research_interest.png" alt="Research Interest" style="width: 50%; display: block; margin-left: auto; margin-right: auto;"/>
