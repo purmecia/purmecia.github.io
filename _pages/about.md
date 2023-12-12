@@ -17,7 +17,7 @@ You can find my CV here: [link](../assets/CV_YuchenCao.pdf)
 
 My research interest lies in integrating **hardware and software** in both **computer science** and **brain science**. To be specific, I am interested (but not confined)  in these fantastic and extensive areas:
 
-- **From computer science to brain science**: High-dimensional data analysis, Computational neuroscience, Brain network, Intuitive psychology and physics, etc.
+- **From computer science to brain science**: High-dimensional data analysis, Computational neuroscience, Brain network, Human Cognition Analysis, etc.
 - **From brain science to computer science**: Bio-inspired computation, Neural Symbolic Machine Learning, Neural network analysis, etc.
 - **Overlap**: Brain-computer interface, Illusion in machine, Reinforcement learning, Natural Language Processing, Machine learning, Robotics, Multi-modal perception, Consciousness, etc.
 
