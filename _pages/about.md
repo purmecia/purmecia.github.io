@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I'm a now second-year **M.S.** student of **Computer Science** at **Duke University**, where I am very fortunate to be advised by Prof. [Jennifer Groh](https://people.duke.edu/~jmgroh/). Before, I got my B.Eng. in Computer Science and Technology from Nanjing University of Posts and Telecommunications (NJUPT), where I won tens of awards in programming competitions including a **silver medal** in **ACM-ICPC** and **champion in RoboCup**.
+I'm a now first-year  **Ph.D.** student of **Computer Science** at **Northwestern University**.  Before that, I earned **M.S. of Computer Science** at **Duke University**, where I am very fortunate to be advised by Prof. [Jennifer Groh](https://people.duke.edu/~jmgroh/). I got my B.Eng. in Computer Science and Technology from Nanjing University of Posts and Telecommunications (NJUPT), where I won tens of awards in programming competitions including a **silver medal** in **ACM-ICPC** and **champion in RoboCup**.
 
 You can find my CV here: [link](../assets/CV_YuchenCao.pdf)
 
