@@ -21,6 +21,8 @@ My research interest lies in integrating **hardware and software** in both **com
 - **From brain science to computer science**: Bio-inspired computation, Neural Symbolic Machine Learning, Neural network analysis, etc.
 - **Overlap**: Brain-computer interface, Illusion in machine, Reinforcement learning, Natural Language Processing, Machine learning, Robotics, Multi-modal perception, Consciousness, etc.
 
+For now, I am focusing on the **Perception** in **Robotics** area.
+
 <figure>  
 <img src="/images/research_interest.png" alt="Research Interest" style="width: 50%; display: block; margin-left: auto; margin-right: auto;"/>
 
@@ -36,7 +38,7 @@ The same as my research interest, my past experiences can be categorized into **
 
 ## Research Experience 
 
-### McGurk Effect Research &nbsp; &nbsp; &nbsp;&nbsp;  <i>Jan. 2023 - Present</i>
+### McGurk Effect Research [[Report](/assets/McGurk_Yuchen.pdf)] &nbsp; &nbsp; &nbsp;&nbsp;  <i>Jan. 2023 - Present</i>
 
  *Research Assistant*, Duke University (Supervised by Professor [Jennifer Groh](https://people.duke.edu/~jmgroh/))
 
